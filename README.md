@@ -18,7 +18,28 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0853-most-profit-assigning-work) |
+| [1285-balance-a-binary-search-tree](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1285-balance-a-binary-search-tree) |
 # Sorting
 |  |
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0853-most-profit-assigning-work) |
+# Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1285-balance-a-binary-search-tree) |
+# Tree
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1285-balance-a-binary-search-tree) |
+# Depth-First Search
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1285-balance-a-binary-search-tree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1285-balance-a-binary-search-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1285-balance-a-binary-search-tree) |
