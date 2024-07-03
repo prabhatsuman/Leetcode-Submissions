@@ -43,3 +43,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1285-balance-a-binary-search-tree) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0072-edit-distance) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0072-edit-distance) |
+<!---LeetCode Topics End-->
