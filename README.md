@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0072-edit-distance) |
+| [0126-word-ladder-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0126-word-ladder-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0126-word-ladder-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -69,4 +71,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0126-word-ladder-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
