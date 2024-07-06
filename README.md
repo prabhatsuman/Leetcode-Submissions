@@ -79,4 +79,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0126-word-ladder-ii) |
+| [0820-find-eventual-safe-states](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0820-find-eventual-safe-states) |
+## Depth-First Search
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0820-find-eventual-safe-states) |
+## Graph
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0820-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
