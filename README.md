@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0152-maximum-product-subarray) |
@@ -141,9 +142,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
