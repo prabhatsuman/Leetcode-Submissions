@@ -1,43 +1,32 @@
+#include <vector>
+#include <set>
+using namespace std;
+
 class Solution {
 public:
     bool isValidSudoku(vector<vector<char>>& board) {
-        set<char> st;
+       
+        bool rows[9][9] = {false};
+        bool cols[9][9] = {false};
+        bool subgrids[9][9] = {false};
+        
         for (int i = 0; i < 9; i++) {
-
             for (int j = 0; j < 9; j++) {
-                if (st.count(board[i][j])) {
-                    return false;
-                }
-                if (board[i][j] != '.')
-                    st.insert(board[i][j]);
-            }
-            st.clear();
-        }
-        for (int j = 0; j < 9; j++) {
-
-            for (int i = 0; i < 9; i++) {
-                if (st.count(board[i][j])) {
-                    return false;
-                }
-                if (board[i][j] != '.')
-                    st.insert(board[i][j]);
-            }
-            st.clear();
-        }
-        for (int row = 0; row < 9; row += 3) {
-            for (int col = 0; col < 9; col += 3) {
-                for (int i = row; i < row + 3; i++) {
-                    for (int j = col; j < col + 3; j++) {
-                        if (st.count(board[i][j])) {
-                            return false;
-                        }
-                        if (board[i][j] != '.')
-                            st.insert(board[i][j]);
+                if (board[i][j] != '.') {
+                    int num = board[i][j] - '1'; 
+                    int subgridIndex = (i / 3) * 3 + (j / 3);
+                    
+                    if (rows[i][num] || cols[j][num] || subgrids[subgridIndex][num]) {
+                        return false;
                     }
+                    
+                    rows[i][num] = true;
+                    cols[j][num] = true;
+                    subgrids[subgridIndex][num] = true;
                 }
-                st.clear();
             }
         }
+        
         return true;
     }
 };
