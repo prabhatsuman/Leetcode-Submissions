@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0126-word-ladder-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0126-word-ladder-ii) |
 | [0212-word-search-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2755-extra-characters-in-a-string) |
+| [3482-construct-string-with-minimum-cost](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3482-construct-string-with-minimum-cost) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0322-coin-change) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2755-extra-characters-in-a-string](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2755-extra-characters-in-a-string) |
+| [3482-construct-string-with-minimum-cost](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3482-construct-string-with-minimum-cost) |
 ## Array
 |  |
 | ------- |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1127-last-stone-weight](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1325-path-with-maximum-probability) |
 | [2755-extra-characters-in-a-string](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2755-extra-characters-in-a-string) |
+| [3482-construct-string-with-minimum-cost](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3482-construct-string-with-minimum-cost) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,4 +157,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
+## Suffix Array
+|  |
+| ------- |
+| [3482-construct-string-with-minimum-cost](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3482-construct-string-with-minimum-cost) |
 <!---LeetCode Topics End-->
