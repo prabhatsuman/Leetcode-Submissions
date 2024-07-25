@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0072-edit-distance) |
 | [0126-word-ladder-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0126-word-ladder-ii) |
 | [0212-word-search-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0212-word-search-ii) |
+| [0768-partition-labels](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0768-partition-labels) |
 | [2755-extra-characters-in-a-string](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2755-extra-characters-in-a-string) |
 | [3482-construct-string-with-minimum-cost](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3482-construct-string-with-minimum-cost) |
 ## Dynamic Programming
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0126-word-ladder-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0126-word-ladder-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0768-partition-labels](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0876-hand-of-straights) |
 | [2755-extra-characters-in-a-string](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2755-extra-characters-in-a-string) |
 ## Bit Manipulation
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0768-partition-labels](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0768-partition-labels) |
 ## Binary Search
 |  |
 | ------- |
@@ -159,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
+| [0768-partition-labels](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0876-hand-of-straights) |
 ## Suffix Array
 |  |
