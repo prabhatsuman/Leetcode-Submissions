@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 | [0322-coin-change](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0322-coin-change) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0876-hand-of-straights](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0876-hand-of-straights) |
 | [1127-last-stone-weight](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1325-path-with-maximum-probability) |
 | [2755-extra-characters-in-a-string](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2755-extra-characters-in-a-string) |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0126-word-ladder-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0126-word-ladder-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0876-hand-of-straights](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0876-hand-of-straights) |
 | [2755-extra-characters-in-a-string](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2755-extra-characters-in-a-string) |
 ## Bit Manipulation
 |  |
@@ -157,8 +159,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
+| [0876-hand-of-straights](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0876-hand-of-straights) |
 ## Suffix Array
 |  |
 | ------- |
 | [3482-construct-string-with-minimum-cost](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3482-construct-string-with-minimum-cost) |
+## Sorting
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0876-hand-of-straights) |
 <!---LeetCode Topics End-->
