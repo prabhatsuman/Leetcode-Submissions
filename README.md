@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0876-hand-of-straights) |
 | [1127-last-stone-weight](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1325-path-with-maximum-probability) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2755-extra-characters-in-a-string](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2755-extra-characters-in-a-string) |
 | [3482-construct-string-with-minimum-cost](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3482-construct-string-with-minimum-cost) |
 ## Hash Table
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0768-partition-labels](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0876-hand-of-straights) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Suffix Array
 |  |
 | ------- |
