@@ -113,12 +113,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0126-word-ladder-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0126-word-ladder-ii) |
 | [0322-coin-change](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0322-coin-change) |
+| [0662-maximum-width-of-binary-tree](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0820-find-eventual-safe-states) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0662-maximum-width-of-binary-tree](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0820-find-eventual-safe-states) |
 ## Graph
@@ -197,8 +199,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0662-maximum-width-of-binary-tree](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0662-maximum-width-of-binary-tree](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
