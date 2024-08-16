@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0820-find-eventual-safe-states) |
@@ -212,11 +213,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 ## Design
 |  |
@@ -234,4 +237,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0937-online-stock-span) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
