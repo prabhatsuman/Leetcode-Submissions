@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0072-edit-distance) |
 | [0126-word-ladder-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0126-word-ladder-ii) |
 | [0212-word-search-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0212-word-search-ii) |
