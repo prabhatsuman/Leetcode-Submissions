@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0126-word-ladder-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0126-word-ladder-ii) |
 | [0212-word-search-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 | [0402-remove-k-digits](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0402-remove-k-digits) |
+| [0686-repeated-string-match](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0686-repeated-string-match) |
 | [0768-partition-labels](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0768-partition-labels) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2755-extra-characters-in-a-string](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2755-extra-characters-in-a-string) |
@@ -245,4 +246,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
