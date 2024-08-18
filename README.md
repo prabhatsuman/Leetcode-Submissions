@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0152-maximum-product-subarray) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0036-valid-sudoku) |
+| [0064-minimum-path-sum](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0036-valid-sudoku) |
+| [0064-minimum-path-sum](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 ## Heap (Priority Queue)
