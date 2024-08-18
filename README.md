@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0072-edit-distance) |
 | [0126-word-ladder-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0126-word-ladder-ii) |
 | [0212-word-search-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0214-shortest-palindrome) |
 | [0402-remove-k-digits](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0402-remove-k-digits) |
 | [0686-repeated-string-match](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0686-repeated-string-match) |
 | [0768-partition-labels](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0768-partition-labels) |
@@ -249,5 +250,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0686-repeated-string-match) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
