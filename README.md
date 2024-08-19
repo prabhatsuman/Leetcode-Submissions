@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0322-coin-change) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0794-swim-in-rising-water](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0794-swim-in-rising-water) |
+| [0854-making-a-large-island](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0876-hand-of-straights) |
 | [0943-sum-of-subarray-minimums](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0967-minimum-falling-path-sum) |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-swim-in-rising-water](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0854-making-a-large-island) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-swim-in-rising-water](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0854-making-a-large-island) |
 ## Graph
 |  |
 | ------- |
@@ -164,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 | [0794-swim-in-rising-water](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0794-swim-in-rising-water) |
+| [0854-making-a-large-island](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0967-minimum-falling-path-sum) |
 ## Heap (Priority Queue)
 |  |
@@ -182,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0794-swim-in-rising-water](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0794-swim-in-rising-water) |
+| [0854-making-a-large-island](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0854-making-a-large-island) |
 ## Two Pointers
 |  |
 | ------- |
