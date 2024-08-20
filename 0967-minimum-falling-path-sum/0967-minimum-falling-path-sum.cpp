@@ -1,33 +1,38 @@
 class Solution {
 public:
     int minFallingPathSum(vector<vector<int>>& matrix) {
-        int n = matrix.size();
-        int m = matrix[0].size();
-        
-        // DP array to store the results
-        vector<vector<int>> dp(n, vector<int>(m, 1e9));
-        
-        // Initialize the first row
-        for (int i = 0; i < m; i++) {
-            dp[0][i] = matrix[0][i];
-        }
-        
-        // Fill the DP array
-        for (int row = 1; row < n; row++) {
-            for (int col = 0; col < m; col++) {
-                dp[row][col] = dp[row-1][col] + matrix[row][col];
-                if (col > 0) {
-                    dp[row][col] = min(dp[row][col], dp[row-1][col-1] + matrix[row][col]);
+        int n=matrix.size(),m=matrix[0].size();
+        vector<vector<int>> dp (n+1,vector<int>(m+1,-1e9) );
+        function<int(int,int)> helper =[&](int row,int col)
+        {
+            if(row==n-1)
+            {
+                return matrix[row][col];
+            }
+            if(dp[row][col]!=-1e9)
+            {
+                return dp[row][col];
+            }
+            int ans=1e9;
+            if(row+1<n)
+            {
+                ans=min(ans,helper(row+1,col)+matrix[row][col]);
+                if(col+1<m)
+                {
+                    ans=min(ans,helper(row+1,col+1)+matrix[row][col]);
                 }
-                if (col < m - 1) {
-                    dp[row][col] = min(dp[row][col], dp[row-1][col+1] + matrix[row][col]);
+                if(col-1>=0)
+                {
+                    ans=min(ans,helper(row+1,col-1)+matrix[row][col]);
                 }
             }
+            return dp[row][col]=ans;
+        };
+        int ans=1e9;
+        for(int i=0;i<m;i++)
+        {
+            ans=min(ans,helper(0,i));
         }
-        
-        // Find the minimum in the last row
-        int ans = *min_element(dp[n-1].begin(), dp[n-1].end());
-        
         return ans;
     }
 };
