@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0312-burst-balloons](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0322-coin-change) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0943-sum-of-subarray-minimums](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0967-minimum-falling-path-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0322-coin-change) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0794-swim-in-rising-water](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0794-swim-in-rising-water) |
+| [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0854-making-a-large-island](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0876-hand-of-straights) |
 | [0943-sum-of-subarray-minimums](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0943-sum-of-subarray-minimums) |
