@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2755-extra-characters-in-a-string](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2755-extra-characters-in-a-string) |
 | [3482-construct-string-with-minimum-cost](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3482-construct-string-with-minimum-cost) |
+| [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 ## Array
 |  |
 | ------- |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2755-extra-characters-in-a-string](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2755-extra-characters-in-a-string) |
 | [3482-construct-string-with-minimum-cost](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3482-construct-string-with-minimum-cost) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
+| [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -297,4 +299,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0140-word-break-ii) |
+## Math
+|  |
+| ------- |
+| [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 <!---LeetCode Topics End-->
