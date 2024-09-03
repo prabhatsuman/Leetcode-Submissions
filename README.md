@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0943-sum-of-subarray-minimums](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0967-minimum-falling-path-sum) |
+| [1398-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1398-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2755-extra-characters-in-a-string](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2755-extra-characters-in-a-string) |
 | [3482-construct-string-with-minimum-cost](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3482-construct-string-with-minimum-cost) |
