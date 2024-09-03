@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0943-sum-of-subarray-minimums](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0967-minimum-falling-path-sum) |
+| [1393-maximum-value-of-k-coins-from-piles](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1398-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1398-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2755-extra-characters-in-a-string](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2755-extra-characters-in-a-string) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1095-two-city-scheduling](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1095-two-city-scheduling) |
 | [1127-last-stone-weight](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1325-path-with-maximum-probability) |
+| [1393-maximum-value-of-k-coins-from-piles](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2505-number-of-good-paths](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2505-number-of-good-paths) |
@@ -317,5 +319,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [1393-maximum-value-of-k-coins-from-piles](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 <!---LeetCode Topics End-->
