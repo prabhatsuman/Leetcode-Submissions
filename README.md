@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 | [0312-burst-balloons](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0322-coin-change) |
+| [0407-trapping-rain-water-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0794-swim-in-rising-water](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0794-swim-in-rising-water) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0126-word-ladder-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0126-word-ladder-ii) |
 | [0322-coin-change](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0322-coin-change) |
+| [0407-trapping-rain-water-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -190,12 +192,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0212-word-search-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0967-minimum-falling-path-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1127-last-stone-weight](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1127-last-stone-weight) |
