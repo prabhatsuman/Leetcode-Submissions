@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2176-parallel-courses-iii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2176-parallel-courses-iii) |
 | [2755-extra-characters-in-a-string](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2755-extra-characters-in-a-string) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3482-construct-string-with-minimum-cost](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3482-construct-string-with-minimum-cost) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 ## Array
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0854-making-a-large-island) |
 | [2213-find-all-people-with-secret](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2213-find-all-people-with-secret) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0854-making-a-large-island) |
 | [2213-find-all-people-with-secret](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2213-find-all-people-with-secret) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Graph
 |  |
 | ------- |
@@ -183,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2176-parallel-courses-iii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2176-parallel-courses-iii) |
 | [2213-find-all-people-with-secret](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2213-find-all-people-with-secret) |
 | [2505-number-of-good-paths](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2505-number-of-good-paths) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 ## Topological Sort
 |  |
