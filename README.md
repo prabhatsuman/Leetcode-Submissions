@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0876-hand-of-straights) |
 | [0943-sum-of-subarray-minimums](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0943-sum-of-subarray-minimums) |
+| [0960-minimize-malware-spread](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0960-minimize-malware-spread) |
 | [0967-minimum-falling-path-sum](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0967-minimum-falling-path-sum) |
 | [1095-two-city-scheduling](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1095-two-city-scheduling) |
 | [1127-last-stone-weight](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1127-last-stone-weight) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0768-partition-labels](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0876-hand-of-straights) |
+| [0960-minimize-malware-spread](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0960-minimize-malware-spread) |
 | [2505-number-of-good-paths](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2505-number-of-good-paths) |
 | [2755-extra-characters-in-a-string](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2755-extra-characters-in-a-string) |
 ## Bit Manipulation
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0854-making-a-large-island) |
+| [0960-minimize-malware-spread](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0960-minimize-malware-spread) |
 | [2213-find-all-people-with-secret](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2213-find-all-people-with-secret) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Depth-First Search
@@ -175,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0854-making-a-large-island) |
+| [0960-minimize-malware-spread](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0960-minimize-malware-spread) |
 | [2213-find-all-people-with-secret](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2213-find-all-people-with-secret) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Graph
@@ -182,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0820-find-eventual-safe-states) |
+| [0960-minimize-malware-spread](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0960-minimize-malware-spread) |
 | [1325-path-with-maximum-probability](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1325-path-with-maximum-probability) |
 | [2176-parallel-courses-iii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2176-parallel-courses-iii) |
 | [2213-find-all-people-with-secret](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2213-find-all-people-with-secret) |
@@ -223,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0794-swim-in-rising-water](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0854-making-a-large-island) |
+| [0960-minimize-malware-spread](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0960-minimize-malware-spread) |
 | [2213-find-all-people-with-secret](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2213-find-all-people-with-secret) |
 | [2505-number-of-good-paths](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2505-number-of-good-paths) |
 ## Two Pointers
