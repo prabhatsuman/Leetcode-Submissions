@@ -49,7 +49,7 @@ public:
     int largestComponentSize(vector<int>& nums) {
         int n = nums.size();
         DSU ds(n);
-        map<int, int> mp;
+        unordered_map<int, int> mp;
         for (int i = 0; i < n; i++) {
             for (int j = 2; j * j <= nums[i]; j++) {
                 if (nums[i] % j == 0) {
