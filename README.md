@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1398-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1398-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2176-parallel-courses-iii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2176-parallel-courses-iii) |
 | [2755-extra-characters-in-a-string](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2755-extra-characters-in-a-string) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0876-hand-of-straights) |
 | [0960-minimize-malware-spread](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0960-minimize-malware-spread) |
 | [0989-largest-component-size-by-common-factor](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0989-largest-component-size-by-common-factor) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2505-number-of-good-paths](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2505-number-of-good-paths) |
 | [2755-extra-characters-in-a-string](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2755-extra-characters-in-a-string) |
 ## Bit Manipulation
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1257-rank-transform-of-a-matrix](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1257-rank-transform-of-a-matrix) |
 | [1325-path-with-maximum-probability](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1325-path-with-maximum-probability) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2176-parallel-courses-iii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2176-parallel-courses-iii) |
 | [2213-find-all-people-with-secret](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2213-find-all-people-with-secret) |
 | [2505-number-of-good-paths](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2505-number-of-good-paths) |
@@ -206,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0820-find-eventual-safe-states) |
 | [1257-rank-transform-of-a-matrix](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1257-rank-transform-of-a-matrix) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2176-parallel-courses-iii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2176-parallel-courses-iii) |
 ## Matrix
 |  |
@@ -348,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0140-word-break-ii) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Math
 |  |
 | ------- |
@@ -370,4 +375,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3563-select-cells-in-grid-with-maximum-score) |
+## Counting
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
