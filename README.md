@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0960-minimize-malware-spread](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0960-minimize-malware-spread) |
 | [1257-rank-transform-of-a-matrix](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1257-rank-transform-of-a-matrix) |
 | [1325-path-with-maximum-probability](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1325-path-with-maximum-probability) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2176-parallel-courses-iii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2176-parallel-courses-iii) |
 | [2213-find-all-people-with-secret](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2213-find-all-people-with-secret) |
 | [2505-number-of-good-paths](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2505-number-of-good-paths) |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0960-minimize-malware-spread](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0960-minimize-malware-spread) |
 | [0989-largest-component-size-by-common-factor](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0989-largest-component-size-by-common-factor) |
 | [1257-rank-transform-of-a-matrix](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1257-rank-transform-of-a-matrix) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2213-find-all-people-with-secret](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2213-find-all-people-with-secret) |
 | [2505-number-of-good-paths](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2505-number-of-good-paths) |
 ## Two Pointers
