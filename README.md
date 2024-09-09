@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0960-minimize-malware-spread](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0960-minimize-malware-spread) |
 | [0967-minimum-falling-path-sum](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0967-minimum-falling-path-sum) |
 | [0989-largest-component-size-by-common-factor](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0989-largest-component-size-by-common-factor) |
+| [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1095-two-city-scheduling](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1095-two-city-scheduling) |
 | [1127-last-stone-weight](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1127-last-stone-weight) |
 | [1257-rank-transform-of-a-matrix](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1257-rank-transform-of-a-matrix) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0876-hand-of-straights) |
 | [0960-minimize-malware-spread](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0960-minimize-malware-spread) |
 | [0989-largest-component-size-by-common-factor](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0989-largest-component-size-by-common-factor) |
+| [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2505-number-of-good-paths](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2505-number-of-good-paths) |
 | [2755-extra-characters-in-a-string](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2755-extra-characters-in-a-string) |
@@ -148,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Trie
 |  |
