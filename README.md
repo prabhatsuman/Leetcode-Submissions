@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1290-make-array-strictly-increasing](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1290-make-array-strictly-increasing) |
 | [1325-path-with-maximum-probability](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1325-path-with-maximum-probability) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1393-maximum-value-of-k-coins-from-piles) |
+| [1447-jump-game-iv](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1447-jump-game-iv) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0960-minimize-malware-spread](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0960-minimize-malware-spread) |
 | [0989-largest-component-size-by-common-factor](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0989-largest-component-size-by-common-factor) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
+| [1447-jump-game-iv](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1447-jump-game-iv) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2505-number-of-good-paths](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2505-number-of-good-paths) |
 | [2755-extra-characters-in-a-string](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2755-extra-characters-in-a-string) |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0854-making-a-large-island) |
 | [0960-minimize-malware-spread](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0960-minimize-malware-spread) |
+| [1447-jump-game-iv](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1447-jump-game-iv) |
 | [2213-find-all-people-with-secret](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2213-find-all-people-with-secret) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Depth-First Search
