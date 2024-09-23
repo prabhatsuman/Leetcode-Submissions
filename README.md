@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0126-word-ladder-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0126-word-ladder-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0140-word-break-ii) |
+| [0146-lru-cache](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0146-lru-cache) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0768-partition-labels](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0876-hand-of-straights) |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0146-lru-cache](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0146-lru-cache) |
 ## Stack
 |  |
 | ------- |
@@ -328,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0146-lru-cache) |
 | [0937-online-stock-span](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -389,4 +392,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
