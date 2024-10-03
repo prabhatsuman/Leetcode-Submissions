@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0967-minimum-falling-path-sum) |
 | [0989-largest-component-size-by-common-factor](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0989-largest-component-size-by-common-factor) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
+| [1034-subarrays-with-k-different-integers](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1095-two-city-scheduling](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1095-two-city-scheduling) |
 | [1127-last-stone-weight](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1127-last-stone-weight) |
 | [1257-rank-transform-of-a-matrix](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1257-rank-transform-of-a-matrix) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0960-minimize-malware-spread](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0960-minimize-malware-spread) |
 | [0989-largest-component-size-by-common-factor](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0989-largest-component-size-by-common-factor) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
+| [1034-subarrays-with-k-different-integers](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1447-jump-game-iv](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1447-jump-game-iv) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2505-number-of-good-paths](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2505-number-of-good-paths) |
@@ -393,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [1034-subarrays-with-k-different-integers](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Doubly-Linked List
 |  |
@@ -402,4 +405,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0025-reverse-nodes-in-k-group) |
+## Sliding Window
+|  |
+| ------- |
+| [1034-subarrays-with-k-different-integers](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1034-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
