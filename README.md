@@ -302,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0237-delete-node-in-a-linked-list) |
@@ -397,4 +398,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0146-lru-cache) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
