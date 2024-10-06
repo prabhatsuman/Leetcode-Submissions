@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0212-word-search-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 | [0312-burst-balloons](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0312-burst-balloons) |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0794-swim-in-rising-water](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0794-swim-in-rising-water) |
 | [1290-make-array-strictly-increasing](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1290-make-array-strictly-increasing) |
