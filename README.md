@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3563-select-cells-in-grid-with-maximum-score) |
+| [3680-count-connected-components-in-lcm-graph](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3680-count-connected-components-in-lcm-graph) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2505-number-of-good-paths](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2505-number-of-good-paths) |
 | [2755-extra-characters-in-a-string](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2755-extra-characters-in-a-string) |
+| [3680-count-connected-components-in-lcm-graph](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3680-count-connected-components-in-lcm-graph) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2213-find-all-people-with-secret](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2213-find-all-people-with-secret) |
 | [2505-number-of-good-paths](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/2505-number-of-good-paths) |
+| [3680-count-connected-components-in-lcm-graph](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3680-count-connected-components-in-lcm-graph) |
 ## Two Pointers
 |  |
 | ------- |
@@ -393,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0989-largest-component-size-by-common-factor](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0989-largest-component-size-by-common-factor) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
+| [3680-count-connected-components-in-lcm-graph](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3680-count-connected-components-in-lcm-graph) |
 ## Combinatorics
 |  |
 | ------- |
@@ -406,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0989-largest-component-size-by-common-factor](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0989-largest-component-size-by-common-factor) |
+| [3680-count-connected-components-in-lcm-graph](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3680-count-connected-components-in-lcm-graph) |
 ## Bitmask
 |  |
 | ------- |
