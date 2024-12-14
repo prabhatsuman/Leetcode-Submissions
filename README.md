@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0943-sum-of-subarray-minimums](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0967-minimum-falling-path-sum) |
+| [1042-minimum-cost-to-merge-stones](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1290-make-array-strictly-increasing](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1290-make-array-strictly-increasing) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1398-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1398-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0989-largest-component-size-by-common-factor](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/0989-largest-component-size-by-common-factor) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1034-subarrays-with-k-different-integers](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1042-minimum-cost-to-merge-stones](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1095-two-city-scheduling](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1095-two-city-scheduling) |
 | [1127-last-stone-weight](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1127-last-stone-weight) |
 | [1257-rank-transform-of-a-matrix](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1257-rank-transform-of-a-matrix) |
@@ -404,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [1042-minimum-cost-to-merge-stones](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/prabhatsuman/Leetcode-Submissions/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 ## Number Theory
